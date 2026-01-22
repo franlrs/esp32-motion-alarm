@@ -30,7 +30,7 @@ Un monitor de proximidad conectado que actúa en tres fases:
 3.  **Notificación Cloud:** El ESP32 gestiona la conexión SSL/TLS para enviar una alerta "Push" a Telegram.
 
 <p align="center">
-  <img src="img/diagrama_bloques.png" alt="Arquitectura del Sistema" width="600">
+  <img src="https://github.com/user-attachments/assets/d5fa4bc8-8502-45ad-8fa8-6e8489ba288c" alt="Arquitectura del Sistema" width="500">
 </p>
 
 ---
@@ -44,12 +44,13 @@ Un monitor de proximidad conectado que actúa en tres fases:
 
 ---
 
+
 ## 🔌 Conexionado (Wiring)
 
 ⚠️ **IMPORTANTE:** Este proyecto utiliza un **Conversor de Nivel Lógico**. No conectar el sensor directamente al ESP32-S3 o se dañará el microcontrolador.
 
 <p align="center">
-  <img src="img/esquema_conexiones.jpg" alt="Esquema de Conexiones" width="500">
+  <img src="https://github.com/user-attachments/assets/9673949c-c026-404b-a4a6-121b8273cca6" alt="Esquema de Conexiones" width="500">
 </p>
 
 **Tabla de Rutas de Señal:**
@@ -93,12 +94,14 @@ Por seguridad, las claves no están en el código principal.
 
 El sistema es capaz de detectar movimiento y enviar la alerta en menos de 2 segundos.
 
+
 <p align="center">
-  <img src="img/foto_montaje.jpg" alt="Montaje Real" width="399">
-  <img src="img/captura_telegram.png" alt="Notificación Móvil" width="300">
+  <img src="https://github.com/user-attachments/assets/0d818bf0-d6f9-4640-adaf-7c414df75d50" alt="Montaje Real" width="399">
+  <img src="https://github.com/user-attachments/assets/09e6ed19-6a2f-4ba7-a439-b8a70e5bd01e" alt="Notificación Móvil" width="300">
 </p>
 
 ---
+
 
 ## 📄 Referencias
 * [SparkFun Logic Level Converter Guide](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide)
@@ -109,5 +112,6 @@ El sistema es capaz de detectar movimiento y enviar la alerta en menos de 2 segu
 ## ⚖️ Licencia
 
 Este proyecto está bajo la Licencia **MIT** - mira el archivo [LICENSE](LICENSE) para más detalles.
+
 
 Copyright (c) 2026 Iago Esquivel, Javier Cadenas & Francisco Luis Rivero.
