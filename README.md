@@ -114,5 +114,6 @@ El sistema es capaz de detectar movimiento y enviar la alerta en menos de 2 segu
 Este proyecto está bajo la Licencia **MIT** - mira el archivo [LICENSE](LICENSE) para más detalles.
 
 
-Copyright (c) 2026 Iago Esquivel, Javier Cadenas & Francisco Luis Rivero.
+Copyright (c) 2026 Iago Esquivel Ramos, Javier Cadenas de Llano Delgado & Francisco Luis Rivero Sánchez.
+
 
