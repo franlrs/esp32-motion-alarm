@@ -30,7 +30,7 @@ Un monitor de proximidad conectado que actúa en tres fases:
 3.  **Notificación Cloud:** El ESP32 gestiona la conexión SSL/TLS para enviar una alerta "Push" a Telegram.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5fa4bc8-8502-45ad-8fa8-6e8489ba288c" alt="Arquitectura del Sistema" width="500">
+  <img src="https://github.com/user-attachments/assets/3921cf17-3628-4bd1-be78-38b784bee7be"  alt="Arquitectura del Sistema" width="400">
 </p>
 
 ---
@@ -115,3 +115,4 @@ Este proyecto está bajo la Licencia **MIT** - mira el archivo [LICENSE](LICENSE
 
 
 Copyright (c) 2026 Iago Esquivel, Javier Cadenas & Francisco Luis Rivero.
+
