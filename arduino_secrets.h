@@ -1,4 +1,4 @@
-#define SECRET_SSID "*******"      // Pon aquí tu nombre de red
-#define SECRET_PASS "*******"     // Pon aquí tu clave
-#define SECRET_BOT_TOKEN "*******" // Tu token
-#define SECRET_CHAT_ID "*******"          // Tu Chat ID
+#define SECRET_SSID "*******"      // Nombre de red
+#define SECRET_PASS "*******"     // Clave
+#define SECRET_BOT_TOKEN "*******" // Token Telegram
+#define SECRET_CHAT_ID "*******"          // Chat ID
