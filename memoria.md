@@ -24,7 +24,7 @@ El proyecto consiste en el diseño e implementación de un sistema de seguridad 
 El sistema hardware se ha diseñado priorizando la seguridad eléctrica y la capacidad de procesamiento. A continuación se detallan los componentes seleccionados:
 
 <div align="center">
-  <img src="img/diagrama_bloques.png" alt="Diagrama de Bloques" width="500">
+  <img src="img/diagrama_bloques.png" alt="Diagrama de Bloques" width="350">
   <br>
   <em>Figura 1: Arquitectura del sistema</em>
 </div>
@@ -86,9 +86,9 @@ El montaje requiere especial atención al puenteo de voltajes a través del Conv
 </div>
 
 **Distribución de Alimentación:**
-* **Fuente 5V** $\rightarrow$ Sensor VCC, Pin HV del Conversor, Pin VIN del ESP32.
-* **ESP32 3.3V** $\rightarrow$ Pin LV del Conversor.
-* **GND** $\rightarrow$ Conectado a GND de todos los componentes (tierra común).
+* **Fuente 5V** → Sensor VCC, Pin HV del Conversor, Pin VIN del ESP32.
+* **ESP32 3.3V** → Pin LV del Conversor.
+* **GND** → Conectado a GND de todos los componentes (tierra común).
 
 **Ruta de Datos (Señales):**
 
